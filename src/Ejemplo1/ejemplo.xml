@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<empleados>
+    <empleado alias="La Delegada">
+        <id>1</id>
+        <nombre>Anna</nombre>
+        <apellidos>Ruiz Blázquez</apellidos>
+        <departamento>Administrativo</departamento>
+        <salario>1300</salario>
+    </empleado>
+    <empleado alias="El Teacher">
+        <id>2</id>
+        <nombre>Fran</nombre>
+        <apellidos>Belda</apellidos>
+        <departamento>Profe</departamento>
+        <salario>3300</salario>
+    </empleado>
+</empleados>
